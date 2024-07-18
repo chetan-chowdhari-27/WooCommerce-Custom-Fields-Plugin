@@ -27,7 +27,7 @@ The WooCommerce Custom Fields plugin allows you to add additional fields to your
 
 #### Backend Screenshot
 
-![Backend Screenshot](https://example.com/backend-screenshot.png)
+![Backend Screenshot](https://github.com/chetan-chowdhari-27/WooCommerce-Custom-Fields-Plugin/blob/main/xDQB4Fr.png)
 
 #### Frontend Screenshot
 
