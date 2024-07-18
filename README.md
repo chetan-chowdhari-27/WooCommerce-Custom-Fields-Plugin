@@ -47,15 +47,6 @@ I also tested the plugin using Postman API testing, and it worked as expected.
 
 I have included comments in the code to explain key parts of the implementation. If you have any questions or need further clarification, please do not hesitate to contact me.
 
-### Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-### License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-### Acknowledgments
-
-* WooCommerce for providing the foundation for this plugin.
-* WordPress for providing the platform for this plugin.
