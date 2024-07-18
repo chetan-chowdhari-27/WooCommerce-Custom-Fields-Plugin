@@ -26,8 +26,8 @@ The WooCommerce Custom Fields plugin allows you to add additional fields to your
 ### Screenshots
 
 ![Backend Screenshot](https://github.com/chetan-chowdhari-27/WooCommerce-Custom-Fields-Plugin/blob/main/xDQB4Fr.png)
-#### Backend Screenshot Backend Screenshot: https://i.imgur.com/kunVdXy.png
-#### Frontend Screenshot Frontend Screenshot: https://i.imgur.com/kunVdXy.png
+#### Backend Screenshot : https://i.imgur.com/kunVdXy.png
+#### Frontend Screenshot : https://i.imgur.com/kunVdXy.png
 
 
 ### Test Product
