@@ -1,0 +1,21 @@
+PLugin Name :- WooCommerce Custom Fields
+Plugin Actiavted :- https://i.imgur.com/xDQB4Fr.png
+
+Created a Test Product :- 
+
+Test product :- http://localhost/mysite_test/product/test-product/
+Additional Fields Back-End SS :- https://i.imgur.com/kunVdXy.png
+				  Front-End SS :- https://i.imgur.com/kunVdXy.png
+
+Rest API Test :- 
+
+I have test the Via Post-Man API testing 
+
+
+
+
+
+
+
+
+
