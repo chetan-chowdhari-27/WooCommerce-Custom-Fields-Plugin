@@ -14,9 +14,9 @@
 
 ### Plugin Links
 
-* [Plugin URL](https://example.com/plugin-url)
-* [Drive link](https://example.com/drive-link)
-* [GitHub Link](https://github.com/your-username/woocommerce-custom-fields-plugin)
+* [Plugin Instructions link](https://docs.google.com/document/d/1omWfnBFJOVMEfbYTkSv2u65CsQiO4lwd4o_HyGSrUg0/edit?usp=sharing)
+* [Drive link](https://drive.google.com/drive/folders/1B9ayBfx8S4qFsTI-G4A8XpU-O6VfO9E4)
+* [Plugin Documentation link](https://docs.google.com/document/d/1R-R5O-F4IjCHXSW-c-Da1YzP0JN_BUQzsZmdgywWtUg/edit?usp=sharing)
 
 ## Plugin Overview
 -----------------
